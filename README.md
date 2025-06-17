@@ -1,16 +1,52 @@
-# zero_gym
+# Zero Gym – A Flutter-Based Home Workout App 🏋️‍♂️🚀
 
-A new Flutter project.
+**Zero Gym** is a home workout mobile application built using **Flutter** and powered by **Firebase**. It is designed to help users perform bodyweight workouts at home, track their progress, calculate BMI, and stay motivated — all within an intuitive and user-friendly interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🔥 Key Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ **Workout Tracking**  
+  Save completed sessions and track calories burned.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ **Home Page**  
+  Explore categorized workout sections with video guides for each routine.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ✅ **Report Page**  
+  Calculate your BMI and get an overview of your workout progress.
+
+- ✅ **Settings Page**  
+  Includes:
+  - About the App  
+  - Feedback  
+  - Share with Friends  
+  - Logout  
+
+- ✅ **Authentication**  
+  Secure login and signup with Firebase Authentication.
+
+---
+
+## 🛠 Tech Stack
+
+- **Flutter** – Frontend UI/UX Development  
+- **Firebase** – Database, Authentication, and Cloud Storage  
+- **Dart** – App logic and state management
+
+---
+
+## ✨ Future Enhancements
+
+- 📊 Add visual progress graphs for better workout insight  
+- 🧠 Implement AI-based personalized workout recommendations  
+- 🎨 Optimize UI animations for a smoother and more engaging experience  
+
+ 
+---
+
+
+## 📌 How to Run
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/zero-gym.git
